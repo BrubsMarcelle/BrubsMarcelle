@@ -6,6 +6,7 @@
 Sou estudante de ciência da computação na faculdade <img width="10" height="10" src="https://theme.zdassets.com/theme_assets/147534/cf3e550bb9f168d26d91ee0ed5dc8e11e62dc74d.png"/>, estou no 4° semestre. 
 
 ### GitStatus
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=BrubsMarcelle&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrubsMarcelle&theme=bear&background=000&&dates=FFF&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
@@ -14,7 +15,6 @@ Sou estudante de ciência da computação na faculdade <img width="10" height="1
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=BrubsMarcelle&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
 </div>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=BrubsMarcelle&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 ### Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40"
