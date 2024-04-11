@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=873FF7&width=435&lines=%F0%9F%92%96+Oiii%2C+tudo+b%C3%A3o%3F;Me+chamo+Bruna+Marcelle)](https://git.io/typing-svg)
 
-Sou estudante de ciência da computação na faculdade <img width="10" height="10" src="https://theme.zdassets.com/theme_assets/147534/cf3e550bb9f168d26d91ee0ed5dc8e11e62dc74d.png"/>, estou no 5° semestre. 
+Sou estudante de ciência da computação na faculdade <img width="10" height="10" src="https://theme.zdassets.com/theme_assets/147534/cf3e550bb9f168d26d91ee0ed5dc8e11e62dc74d.png"/>, estou no 6° semestre. 
 
 ### GitStatus
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=BrubsMarcelle&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
